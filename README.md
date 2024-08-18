@@ -24,4 +24,7 @@ This script retrieves the current weather report for Warsaw from wttr.in, extrac
 2. **Make It Executable**: Run the following command to make the script executable:
    ```bash
    chmod +x weather_script.sh
+3. **Run the Script**
+   ```bash
+   ./weatherforecast.sh
 
